@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="python_world",
+    name="python-world",
     version="0.0.1",
     author="Cedd Burge",
     author_email="ceddlyburge@gmail.com",
